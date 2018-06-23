@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PatientList>
+    <Patient>
+        <surname>Ivanov</surname>
+        <name>Ivan</name>
+        <dateOfBirth>1987-04-03</dateOfBirth>
+        <hearth>true</hearth>
+    </Patient>
+    <Patient>
+        <surname>Petrov</surname>
+        <name>Ivan</name>
+        <dateOfBirth>1987-05-06</dateOfBirth>
+        <hearth>false</hearth>
+    </Patient>
+</PatientList>
